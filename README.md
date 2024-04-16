@@ -1,6 +1,8 @@
+![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
+
+
 👋 Hi, I’m Shubhro Dev
 
-![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/3bae59a9-97e1-44f2-a9d4-e49a5c8b3174)
 🎓 I’m currently pursuing Btech CSE from RGIPT Jais
 
 💻This is my GitHub for college. I post lab assignments here.
