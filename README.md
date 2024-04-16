@@ -1,7 +1,7 @@
-![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/31414d0b-f315-461a-a1da-f3164d6f88a7)
+
 ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/631fb126-55f1-467c-8079-3d3af7c21930)
 ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
-![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/7433d18e-7561-4690-b41c-0d7527b12819)
+
 
 
 👋 Hi, I’m Shubhro Dev
