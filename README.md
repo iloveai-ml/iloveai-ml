@@ -6,17 +6,12 @@
 🌱 I’m currently pursuing Btech CSE from RGIPT Jais
 
 Reach me on: 
-             
              1.Linkedin: https://in.linkedin.com/in/shubhro-dev
-
              2.Whatsapp: https://api.whatsapp.com/send/?phone=%2B918272979689&text&type=phone_number&app_absent=0
-             
              3.Instagram: https://www.instagram.com/shubhro_x/?hl=en
 
 
 
-
-(https://github.com/iloveai-ml/iloveai-ml/assets/167196524/e7ffdd47-2598-43ae-a79e-53be49e9430b)
 
 
 <!---
