@@ -14,9 +14,6 @@
 
 
 
- ![plot](https://github.com/iloveai-ml/Web-Development-Lab/assets/167196524/fcff8cb3-c67c-489e-b861-781bd051ecc2)
-
-
 
 
 
