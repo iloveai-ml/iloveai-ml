@@ -1,3 +1,4 @@
+![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/631fb126-55f1-467c-8079-3d3af7c21930)
 ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
 
 
@@ -16,7 +17,7 @@ Reach me out on:
              
              3.Instagram: https://www.instagram.com/shubhro_x/?hl=en
 
-
+![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/631fb126-55f1-467c-8079-3d3af7c21930)
 ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/c1798bea-1811-48e2-a4f8-18a2aad430ee)
 
 <!---
