@@ -1,8 +1,9 @@
 👋 Hi, I’m Shubhro Dev
 
-🌱 I’m currently pursuing Btech CSE from RGIPT Jais
+![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/3bae59a9-97e1-44f2-a9d4-e49a5c8b3174)
+🎓 I’m currently pursuing Btech CSE from RGIPT Jais
 
-👀 This is my GitHub for college. I post lab assignments here.
+💻This is my GitHub for college. I post lab assignments here.
 
 
 Reach me out on: 
