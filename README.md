@@ -1,4 +1,5 @@
- ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)
+ ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/10029fc5-555c-4091-bf94-bb2d6aa5b8bb)  
+ [![](https://visitcount.itsvg.in/api?id=iloveai-ml&icon=3&color=2)](https://visitcount.itsvg.in)
 
 
 👋 Hi, I’m Shubhro Dev
@@ -11,15 +12,30 @@
 
 
 
-
-
-
-
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iloveai-ml&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iloveai-ml&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iloveai-ml&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
 ![plot](https://github.com/iloveai-ml/Web-Development-Lab/assets/167196524/fcff8cb3-c67c-489e-b861-781bd051ecc2)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iloveai-ml&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
 
 
 
