@@ -6,9 +6,9 @@
 
 🎓 I’m currently pursuing Btech CSE from RGIPT Jais
 
-💻This is my official GitHub for college
+💻This is my official GitHub for dumping
 
-📝I post lab assignments here.
+📝I also post lab assignments here.
 
 
 
