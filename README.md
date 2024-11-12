@@ -4,7 +4,7 @@
 
 👋 Hi, I’m Shubhro Dev
 
-🎓 I’m currently pursuing Btech CSE from RGIPT Jais
+🎓 I use this Github for testing new codes
 
 💻This is my official GitHub for dumping
 
