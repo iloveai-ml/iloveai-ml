@@ -9,6 +9,15 @@ minion colllege  ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/1671965
 nice computer ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/6340f5e7-d165-464f-9e5d-ca0e8b49c36f)
 neon cat ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/cdc8a3c4-4d82-4891-ba54-8fc7aa37a992)
 lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/assets/167196524/fcff8cb3-c67c-489e-b861-781bd051ecc2)
+![hacker](https://github.com/user-attachments/assets/9af41371-c948-4e7a-b34c-2e532eb6a973)
+![mariocoffesip](https://github.com/user-attachments/assets/48f0c4ee-0e98-4b83-8372-2451cc2013cf)
+![mancatplaygamecomputer](https://github.com/user-attachments/assets/c9a2810d-7fd2-4937-b1eb-9d117df95a92)
+![donkeykong](https://github.com/user-attachments/assets/1af4300c-57d3-4b67-a75d-6e824151a974)
+![kirbychilling](https://github.com/user-attachments/assets/e373fdb5-b22d-48dc-a100-da429f094391)
+![man chilling](https://github.com/user-attachments/assets/29bb2ec1-bcdb-450f-801d-e70dfd6e99d1)
+![mansetupcodingplaying](https://github.com/user-attachments/assets/bc476c65-819a-4a2f-8fa1-d738d0cd5a1e)
+![technightscape](https://github.com/user-attachments/assets/a7fab717-11af-41a6-8a11-60fd908cfaa7)
+![chillingirl](https://github.com/user-attachments/assets/742fcb3a-76be-4480-aeac-919e7c53751a)
 
 --->
  ![plot](https://github.com/user-attachments/assets/ad5fc84c-7f98-46bd-a054-a04c6137d49c)
