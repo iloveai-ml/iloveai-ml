@@ -65,7 +65,11 @@ bestmarioretrocoding ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167
 
 <!---![plot](https://github.com/iloveai-ml/Web-Development-Lab/assets/167196524/fcff8cb3-c67c-489e-b861-781bd051ecc2) --->
 
-![plot](https://github.com/user-attachments/assets/dd7e3b71-53af-477f-b360-49caa99eb1df)
+
+
+
+![plot](https://github.com/user-attachments/assets/df74ba11-993e-419d-89cb-5313b3c42cee)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iloveai-ml&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -98,5 +102,4 @@ bestmarioretrocoding ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167
 <!---   Server ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/6340f5e7-d165-464f-9e5d-ca0e8b49c36f) --->
 
 ![plot](https://github.com/user-attachments/assets/9af41371-c948-4e7a-b34c-2e532eb6a973)
-
 
