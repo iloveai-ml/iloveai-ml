@@ -15,7 +15,7 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 
  
  
- 
+ ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/4aec661f-9008-4692-a2ba-05a5a675bbf0)
  
  
  
