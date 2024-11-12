@@ -14,7 +14,7 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 ![mancatplaygamecomputer](https://github.com/user-attachments/assets/c9a2810d-7fd2-4937-b1eb-9d117df95a92)
 ![donkeykong](https://github.com/user-attachments/assets/1af4300c-57d3-4b67-a75d-6e824151a974)
 ![kirbychilling](https://github.com/user-attachments/assets/e373fdb5-b22d-48dc-a100-da429f094391)
-![man chilling](https://github.com/user-attachments/assets/29bb2ec1-bcdb-450f-801d-e70dfd6e99d1)
+![zelda](https://github.com/user-attachments/assets/29bb2ec1-bcdb-450f-801d-e70dfd6e99d1)
 ![mansetupcodingplaying](https://github.com/user-attachments/assets/bc476c65-819a-4a2f-8fa1-d738d0cd5a1e)
 ![technightscape](https://github.com/user-attachments/assets/a7fab717-11af-41a6-8a11-60fd908cfaa7)
 ![chillingirl](https://github.com/user-attachments/assets/742fcb3a-76be-4480-aeac-919e7c53751a)
@@ -25,6 +25,13 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 ![babyyoda](https://github.com/user-attachments/assets/5152fb2b-2647-4929-815f-1493092257d0)
 ![fitoopro](https://github.com/user-attachments/assets/82d63888-bc1e-408e-aecb-d6cfcce55b60)
 ![ice](https://github.com/user-attachments/assets/dd7e3b71-53af-477f-b360-49caa99eb1df)
+![mario-srotate](https://github.com/user-attachments/assets/4194cf81-394b-4c1a-949f-beb54fcaea72)
+![mario-jump](https://github.com/user-attachments/assets/50fee777-e17c-4ddb-b8b8-c23152191086)
+
+![mario-walk](https://github.com/user-attachments/assets/a933d158-d4df-4b6a-935a-e950ee977bf9)
+![mario-world-superman](https://github.com/user-attachments/assets/2ab6c7bb-1009-4f02-bccf-e40455c9b789)
+
+![luigi walk](https://github.com/user-attachments/assets/8e24c01e-676f-48cd-b0a7-47d056d74743)
 --->
 
  ![plot](https://github.com/user-attachments/assets/1af4300c-57d3-4b67-a75d-6e824151a974)
@@ -66,9 +73,8 @@ bestmarioretrocoding ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167
 <!---![plot](https://github.com/iloveai-ml/Web-Development-Lab/assets/167196524/fcff8cb3-c67c-489e-b861-781bd051ecc2) --->
 
 
+![super-mario-world-yoshi](https://github.com/user-attachments/assets/9e2c6c8b-3391-4751-8bfc-ea2ad2d2a30a)
 
-
-![plot](https://github.com/user-attachments/assets/df74ba11-993e-419d-89cb-5313b3c42cee)
 
 
 ### 🔝 Top Contributed Repo
@@ -101,5 +107,5 @@ bestmarioretrocoding ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167
 
 <!---   Server ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167196524/6340f5e7-d165-464f-9e5d-ca0e8b49c36f) --->
 
-![plot](https://github.com/user-attachments/assets/9af41371-c948-4e7a-b34c-2e532eb6a973)
+![plot](https://github.com/user-attachments/assets/df74ba11-993e-419d-89cb-5313b3c42cee)
 
