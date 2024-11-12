@@ -30,7 +30,7 @@ lovely computer  ![plot](https://github.com/iloveai-ml/Web-Development-Lab/asset
 
 ![mario-walk](https://github.com/user-attachments/assets/a933d158-d4df-4b6a-935a-e950ee977bf9)
 ![mario-world-superman](https://github.com/user-attachments/assets/2ab6c7bb-1009-4f02-bccf-e40455c9b789)
-
+![super-mario-world-yoshi](https://github.com/user-attachments/assets/9e2c6c8b-3391-4751-8bfc-ea2ad2d2a30a)
 ![luigi walk](https://github.com/user-attachments/assets/8e24c01e-676f-48cd-b0a7-47d056d74743)
 --->
 
