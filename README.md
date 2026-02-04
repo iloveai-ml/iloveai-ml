@@ -55,11 +55,11 @@ bestmarioretrocoding ![plot](https://github.com/iloveai-ml/iloveai-ml/assets/167
 
 👋 Hi, I’m Shubhro Dev
 
-🎓 I use this Github for testing new codes
+🎓 I use this Github for testing new codes and free hosting
 
 💻This is my official GitHub for dumping
 
-📝I also post lab assignments here
+📝I also post good codes and resources here
 
 
 
